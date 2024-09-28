@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Modern Space",
+    "Price": 349,
+    "quantity": 1,
+    "img": "https://template.canva.com/EADaopxBna4/1/0/251w-ujD6UPGa9hw.jpg"
+  },
+  {
+    "id": 2,
+    "name": "HEADLINE",
+    "Price": 249,
+    "quantity": 1,
+    "img": "https://i.pinimg.com/originals/e0/54/0b/e0540b88a8f315eb55ad4ca1b7ffc579.jpg"
+  },
+  {
+    "id": 3,
+    "name": "HYPOCRITE WORLD",
+    "Price": 149,
+    "quantity": 1,
+    "img": "https://static-cse.canva.com/blob/921487/ColorfulIllustrationYoungAdultBookCover.jpg"
+  }
+]
